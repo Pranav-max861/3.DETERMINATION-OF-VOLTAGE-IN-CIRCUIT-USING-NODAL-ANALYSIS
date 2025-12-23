@@ -20,6 +20,18 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+![WhatsApp Image 2025-12-23 at 08 36 31_7c5a7d31](https://github.com/user-attachments/assets/5befc62e-e692-4882-bf8c-bb7899c664ca)
+
+**TABULATION**
+
+![WhatsApp Image 2025-12-23 at 08 37 05_f69854ba](https://github.com/user-attachments/assets/2c7d07a5-a4e6-4e37-8519-f8a6f33a7fab)
+
+**CALCULATION**
+
+![WhatsApp Image 2025-12-23 at 08 37 55_871466cb](https://github.com/user-attachments/assets/2ddfa5e5-c82d-4986-80e4-c96d8ce6b60d)
+
+
+
 
  
 **PROCEDURE:**
@@ -36,14 +48,19 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+**MARK SPLIT UP **
+
+![WhatsApp Image 2025-12-23 at 08 38 22_9850cbc1](https://github.com/user-attachments/assets/4aa22351-0956-4b40-84d0-4b9acdb77ba9)
+
+
 **RESULT:**
 
 Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is	0.63V.
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is	0.18V.
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is	0.45V.
 
 
